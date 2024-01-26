@@ -1,0 +1,13 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+</style>
+body{
+  background-color: #eaeaea;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 14px;
+  color: 2d2d2d;
+
+}
+.form-control{
+  width: 350px;
+}
